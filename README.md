@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-<h2>🔭 I’m currently working on<h2> 
-
-<p> I am currently working on a number of different Frontend Mentor challenges</p>
+- 🔭 I’m currently working on  a number of different Frontend Mentor challenges
 
 - 🌱 I’m currently learning HTML, CSS, Sass, JavaScipt, React, React Native, Angular, Express, PHP, MySQL, Laravel 
 
