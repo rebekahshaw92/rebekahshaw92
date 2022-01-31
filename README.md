@@ -15,8 +15,7 @@ Here are some ideas to get you started: -->
 - Sass
 - JavaScript 
 - React 
-- React 
-- Native 
+- React Native 
 - Angular 
 - Express 
 - PHP
