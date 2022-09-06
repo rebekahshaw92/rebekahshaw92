@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 
 ### 🔭 I'm currently working on...
-- I’m currently working on a number of different Frontend Mentor challenges
+- I’m currently working on a several different Frontend Mentor challenges
 
 ### 🌱 I’m currently learning 
 - HTML 
