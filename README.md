@@ -17,10 +17,7 @@ Here are some ideas to get you started: -->
 - React 
 - React Native 
 - Angular 
-- Express 
-- PHP
-- MySQL
-- Laravel 
+- Next.js
 
 ### 📫 How to reach me: 
 - Twitter: @x_beckyboo_x
