@@ -16,7 +16,6 @@ Here are some ideas to get you started: -->
 - JavaScript 
 - React 
 - React Native 
-- Angular 
 - Next.js
 - TypeScript 
 
