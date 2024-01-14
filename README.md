@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
 - React Native 
 - Angular 
 - Next.js
+- TypeScript 
 
 ### 📫 How to reach me: 
 - Twitter: @x_beckyboo_x
